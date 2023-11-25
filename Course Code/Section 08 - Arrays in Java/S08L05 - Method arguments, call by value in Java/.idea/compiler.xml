@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="S08L04 - Foreach loop in Java" />
+        <module name="S06L11 - Inheritance 04 - Constructors ewith inheritance" />
+        <module name="S07L22 - Access modifiers in Java" />
+        <module name="S06L20 - Encapsulation in Java continues" />
+        <module name="S05L01 -Getting started with Classes" />
+        <module name="S06L23 - Benifits of Polymorphism" />
+        <module name="S07L23 - Access modifiers in Java" />
+        <module name="S07L03 - Interface with Polymorphism and multiple inheritance" />
+        <module name="S07L32 - Java throw keyword" />
+        <module name="S07L02 - Interface in Java continues" />
+        <module name="S06L13 - Inheritance 06 - Inheritance example" />
+        <module name="S07L08 -  Local inner class in Java" />
+        <module name="S07L05 -  Non static inner class in Java" />
+        <module name="S07L24 - Access modifiers in Java with inheritance" />
+        <module name="S07L04 -  Abstract classes in Java" />
+        <module name="S06L02 - Getters and Setters in Java Classes" />
+        <module name="S07L29 - Exception handling, sub statements and Multiple exception blocks" />
+        <module name="S06L07 - Default Constructor in Java" />
+        <module name="S06L09 - Inheritance in Java - Getting Started" />
+        <module name="S07L01 - Interface in Java" />
+        <module name="S05L01 - Code block, indentation and statements" />
+        <module name="S06L18 - Working with composition Composition continues" />
+        <module name="S06L10 - Inheritance 03 - Access getter and setter of classes" />
+        <module name="S07L13 -  Static elements in Java" />
+        <module name="S06L04 - Adding functionality to Java Class" />
+        <module name="S07L28 - Exception handling, Wokring, Multiple exception blocks" />
+        <module name="S07L33 - User defined exception in Java" />
+        <module name="S06L03 - Adding functionlity in Java Class" />
+        <module name="S06L06 - Constructor introduction in Java" />
+        <module name="S07L36 - String in Java continues" />
+        <module name="S07L06 -  Non static inner class in Java continues" />
+        <module name="S08L04 - Method arguments, call by value in Java" />
+        <module name="S07L38 - String formatting in Java" />
+        <module name="S06L12 - Inheritance 05 - Method conflict in Java inheritance" />
+        <module name="S07L30 - Exception handling, Multiple catches and Finally" />
+        <module name="S08L03 - Initialization on array in Java continues" />
+        <module name="S07L25 - String handling in Java" />
+        <module name="S06L16 - Composition setting up" />
+        <module name="S06L05 - Run Java Class methods" />
+        <module name="S06L17 - Working with composition Composition" />
+        <module name="S07L26 - String handling in Java continues" />
+        <module name="S06L19 - Encapsulation in Java" />
+        <module name="S07L05 -  Non statis inner class in Java" />
+        <module name="S07L10 -  Anonymous inner class in Java" />
+        <module name="S06L21 - Polymorphism in Java" />
+        <module name="S07L27 - Exception handling introduction in Java" />
+        <module name="S05L02 - Java Literals" />
+        <module name="S07L14 -  Static inner class in Java" />
+        <module name="S07L35 - String in Java" />
+        <module name="S06L01 - Getting started with Classes" />
+        <module name="S06L22 - Polymorphism in Java continues" />
+        <module name="S08L02 - Initialization on array in Java" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="S07L15 -  Static inner class in Java continues" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

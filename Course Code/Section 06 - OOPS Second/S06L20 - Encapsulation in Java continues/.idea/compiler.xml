@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="S06L19 - Encapsulation in Java" />
+        <module name="S06L04 - Adding functionality to Java Class" />
+        <module name="S06L11 - Inheritance 04 - Constructors ewith inheritance" />
+        <module name="S06L20 - Encapsulation in Java continues" />
+        <module name="S06L02 - Getters and Setters in Java Classes" />
+        <module name="S06L03 - Adding functionlity in Java Class" />
+        <module name="S06L06 - Constructor introduction in Java" />
+        <module name="S05L01 -Getting started with Classes" />
+        <module name="S06L07 - Default Constructor in Java" />
+        <module name="S06L12 - Inheritance 05 - Method conflict in Java inheritance" />
+        <module name="S06L09 - Inheritance in Java - Getting Started" />
+        <module name="S06L01 - Getting started with Classes" />
+        <module name="S06L16 - Composition setting up" />
+        <module name="S06L05 - Run Java Class methods" />
+        <module name="S06L18 - Working with composition Composition continues" />
+        <module name="S06L10 - Inheritance 03 - Access getter and setter of classes" />
+        <module name="S06L13 - Inheritance 06 - Inheritance example" />
+        <module name="S06L17 - Working with composition Composition" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
