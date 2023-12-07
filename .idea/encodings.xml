@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/ArrayList/Generics/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ArrayList/Generics/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ArrayList/OOPS-concept/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ArrayList/OOPS-concept/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ArrayList/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ArrayList/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Arrays/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Arrays/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Core-concepts/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Core-concepts/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/OOPS-concept/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/OOPS-concept/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Generics/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Generics/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Sets-concepts/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Sets-concepts/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Sets-concepts/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Sets-concepts/src/main/resources" charset="UTF-8" />
   </component>
 </project>
