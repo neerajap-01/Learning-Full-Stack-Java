@@ -5,216 +5,145 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8ac957bc-55bc-4f2a-b969-140473dc9497" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ArrayList/OOPS-concept/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L02 - Getting started with Java Generics/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L02 - Getting started with Java Generics/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L02 - Getting started with Java Generics/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L02 - Getting started with Java Generics/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L02 - Getting started with Java Generics/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L02 - Getting started with Java Generics/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L02 - Getting started with Java Generics/src/main/java/org/studyeasy/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L02 - Getting started with Java Generics/target/classes/org/studyeasy/Data.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L02 - Getting started with Java Generics/target/classes/org/studyeasy/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L02 - Getting started with Java Generics/target/classes/org/studyeasy/Name.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L03 - Getting started with Java Generics continues/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L03 - Getting started with Java Generics continues/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L03 - Getting started with Java Generics continues/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L03 - Getting started with Java Generics continues/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L03 - Getting started with Java Generics continues/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L03 - Getting started with Java Generics continues/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L03 - Getting started with Java Generics continues/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L03 - Getting started with Java Generics continues/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L03 - Getting started with Java Generics continues/src/main/java/org/studyeasy/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L03 - Getting started with Java Generics continues/target/classes/org/studyeasy/Data.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L03 - Getting started with Java Generics continues/target/classes/org/studyeasy/GenericData.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L03 - Getting started with Java Generics continues/target/classes/org/studyeasy/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L04 - List of Generic class objects in Java/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L04 - List of Generic class objects in Java/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L04 - List of Generic class objects in Java/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L04 - List of Generic class objects in Java/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L04 - List of Generic class objects in Java/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L04 - List of Generic class objects in Java/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L04 - List of Generic class objects in Java/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L04 - List of Generic class objects in Java/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L04 - List of Generic class objects in Java/src/main/java/org/studyeasy/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L04 - List of Generic class objects in Java/target/classes/org/studyeasy/Data.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L04 - List of Generic class objects in Java/target/classes/org/studyeasy/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L05 - Type of parameters/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L05 - Type of parameters/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L05 - Type of parameters/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L05 - Type of parameters/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L05 - Type of parameters/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L05 - Type of parameters/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L05 - Type of parameters/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L05 - Type of parameters/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L05 - Type of parameters/src/main/java/org/studyeasy/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L05 - Type of parameters/target/classes/org/studyeasy/Data.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L05 - Type of parameters/target/classes/org/studyeasy/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L06 - Generic methods in Java Generics/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L06 - Generic methods in Java Generics/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L06 - Generic methods in Java Generics/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L06 - Generic methods in Java Generics/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L06 - Generic methods in Java Generics/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L06 - Generic methods in Java Generics/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L06 - Generic methods in Java Generics/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L06 - Generic methods in Java Generics/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L06 - Generic methods in Java Generics/src/main/java/org/studyeasy/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L06 - Generic methods in Java Generics/target/classes/org/studyeasy/Data.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L06 - Generic methods in Java Generics/target/classes/org/studyeasy/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L07 - Bounded type parameters/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L07 - Bounded type parameters/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L07 - Bounded type parameters/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L07 - Bounded type parameters/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L07 - Bounded type parameters/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L07 - Bounded type parameters/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L07 - Bounded type parameters/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L07 - Bounded type parameters/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L07 - Bounded type parameters/src/main/java/org/studyeasy/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L07 - Bounded type parameters/target/classes/org/studyeasy/Data.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L07 - Bounded type parameters/target/classes/org/studyeasy/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L08 - Bounded type parameters continues/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L08 - Bounded type parameters continues/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L08 - Bounded type parameters continues/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L08 - Bounded type parameters continues/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L08 - Bounded type parameters continues/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L08 - Bounded type parameters continues/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L08 - Bounded type parameters continues/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L08 - Bounded type parameters continues/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L08 - Bounded type parameters continues/src/main/java/org/studyeasy/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L08 - Bounded type parameters continues/target/classes/org/studyeasy/Data.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L08 - Bounded type parameters continues/target/classes/org/studyeasy/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L09 - Wildcards in Java Generics/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L09 - Wildcards in Java Generics/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L09 - Wildcards in Java Generics/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L09 - Wildcards in Java Generics/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L09 - Wildcards in Java Generics/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L09 - Wildcards in Java Generics/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L09 - Wildcards in Java Generics/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L09 - Wildcards in Java Generics/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L09 - Wildcards in Java Generics/src/main/java/org/studyeasy/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L09 - Wildcards in Java Generics/target/classes/org/studyeasy/Car.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L09 - Wildcards in Java Generics/target/classes/org/studyeasy/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L09 - Wildcards in Java Generics/target/classes/org/studyeasy/Vehicle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L10 - Wildcards in Java Generics continues/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L10 - Wildcards in Java Generics continues/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L10 - Wildcards in Java Generics continues/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L10 - Wildcards in Java Generics continues/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L10 - Wildcards in Java Generics continues/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L10 - Wildcards in Java Generics continues/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L10 - Wildcards in Java Generics continues/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L10 - Wildcards in Java Generics continues/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L10 - Wildcards in Java Generics continues/src/main/java/org/studyeasy/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L10 - Wildcards in Java Generics continues/target/classes/org/studyeasy/Car.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L10 - Wildcards in Java Generics continues/target/classes/org/studyeasy/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L10 - Wildcards in Java Generics continues/target/classes/org/studyeasy/Vehicle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 11 - Collections framework continues/S11L01 - Sets, HashSet in Java Generics/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 11 - Collections framework continues/S11L01 - Sets, HashSet in Java Generics/src/main/java/org/studyeasy/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 11 - Collections framework continues/S11L01 - Sets, HashSet in Java Generics/target/classes/org/studyeasy/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 11 - Collections framework continues/S11L02 - HashSet, LinkedHashSet, TreeSet in Collections/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 11 - Collections framework continues/S11L02 - HashSet, LinkedHashSet, TreeSet in Collections/src/main/java/org/studyeasy/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 11 - Collections framework continues/S11L02 - HashSet, LinkedHashSet, TreeSet in Collections/target/classes/org/studyeasy/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 11 - Collections framework continues/S11L03 - Custom sorting with Comparator Interface/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 11 - Collections framework continues/S11L03 - Custom sorting with Comparator Interface/src/main/java/org/studyeasy/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 11 - Collections framework continues/S11L03 - Custom sorting with Comparator Interface/target/classes/org/studyeasy/Data.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 11 - Collections framework continues/S11L03 - Custom sorting with Comparator Interface/target/classes/org/studyeasy/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 11 - Collections framework continues/S11L04 - Custom sorting with Comparator Interface continues/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 11 - Collections framework continues/S11L04 - Custom sorting with Comparator Interface continues/src/main/java/org/studyeasy/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 11 - Collections framework continues/S11L04 - Custom sorting with Comparator Interface continues/target/classes/org/studyeasy/Data.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 11 - Collections framework continues/S11L04 - Custom sorting with Comparator Interface continues/target/classes/org/studyeasy/Main$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 11 - Collections framework continues/S11L04 - Custom sorting with Comparator Interface continues/target/classes/org/studyeasy/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 11 - Collections framework continues/S11L06 - Queue in Collection Framework/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 11 - Collections framework continues/S11L06 - Queue in Collection Framework/src/main/java/org/studyeasy/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 11 - Collections framework continues/S11L06 - Queue in Collection Framework/target/classes/org/studyeasy/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 11 - Collections framework continues/S11L07 - Dequeue in Collection Framework/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 11 - Collections framework continues/S11L07 - Dequeue in Collection Framework/src/main/java/org/studyeasy/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 11 - Collections framework continues/S11L07 - Dequeue in Collection Framework/target/classes/org/studyeasy/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 11 - Collections framework continues/S11L08 - Maps in Collections/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 11 - Collections framework continues/S11L08 - Maps in Collections/src/main/java/org/studyeasy/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 11 - Collections framework continues/S11L08 - Maps in Collections/target/classes/org/studyeasy/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 11 - Collections framework continues/S11L09 - Iterate Maps in Java Collections/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 11 - Collections framework continues/S11L09 - Iterate Maps in Java Collections/src/main/java/org/studyeasy/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 11 - Collections framework continues/S11L09 - Iterate Maps in Java Collections/target/classes/org/studyeasy/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 11 - Collections framework continues/S11L10 - TreeMap in Java Collections/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 11 - Collections framework continues/S11L10 - TreeMap in Java Collections/src/main/java/org/studyeasy/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 11 - Collections framework continues/S11L10 - TreeMap in Java Collections/target/classes/org/studyeasy/Code.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 11 - Collections framework continues/S11L10 - TreeMap in Java Collections/target/classes/org/studyeasy/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 11 - Collections framework continues/S11L11 - ComareTo in TreeMap in Java Collections/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 11 - Collections framework continues/S11L11 - ComareTo in TreeMap in Java Collections/src/main/java/org/studyeasy/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 11 - Collections framework continues/S11L11 - ComareTo in TreeMap in Java Collections/target/classes/org/studyeasy/Code.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 11 - Collections framework continues/S11L11 - ComareTo in TreeMap in Java Collections/target/classes/org/studyeasy/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 11 - Collections framework continues/S11L13 - Search in Maps in Java Collections/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 11 - Collections framework continues/S11L13 - Search in Maps in Java Collections/src/main/java/org/studyeasy/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 11 - Collections framework continues/S11L13 - Search in Maps in Java Collections/target/classes/org/studyeasy/Code.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 11 - Collections framework continues/S11L13 - Search in Maps in Java Collections/target/classes/org/studyeasy/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generics/src/main/java/org/example/BoundTypeMethods/BoundType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generics/src/main/java/org/example/BoundTypeMethods/Name.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generics/src/main/java/org/example/GenericMethods/GenericMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generics/src/main/java/org/example/Generics/Data.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generics/src/main/java/org/example/Generics/GenericData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generics/src/main/java/org/example/Parameters/Parameters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generics/src/main/java/org/example/WildCards/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generics/src/main/java/org/example/WildCards/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sets-concepts/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sets-concepts/src/main/java/org/example/CustomSortingInterface/Data.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sets-concepts/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sets-concepts/src/main/java/org/example/Maps/HashCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sets-concepts/src/main/java/org/example/Maps/HashMapDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sets-concepts/src/main/java/org/example/Maps/Name.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sets-concepts/src/main/java/org/example/Maps/TreeMapDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sets-concepts/src/main/java/org/example/Type_of_Sets.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sets-concepts/src/main/java/org/example/TypesOfSets/HashSetDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sets-concepts/src/main/java/org/example/TypesOfSets/LinkedSetDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sets-concepts/src/main/java/org/example/TypesOfSets/TreeSetDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L02 - Getting started with Java Generics/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L02 - Creating thread by extending the thread class/Screenshot 2022-02-21 185104.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L02 - Creating thread by extending the thread class/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L02 - Creating thread by extending the thread class/src/main/java/org/studyeasy/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L02 - Creating thread by extending the thread class/target/classes/org/studyeasy/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L02 - Creating thread by extending the thread class/target/classes/org/studyeasy/MyCounter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L03 - Creating thread by extending the thread class continues/Screenshot 2022-02-21 185104.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L03 - Creating thread by extending the thread class continues/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L03 - Creating thread by extending the thread class continues/src/main/java/org/studyeasy/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L03 - Creating thread by extending the thread class continues/target/classes/org/studyeasy/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L03 - Creating thread by extending the thread class continues/target/classes/org/studyeasy/MyCounter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L04 - Creating thread by implementing runnable interface/Screenshot 2022-02-21 185104.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L04 - Creating thread by implementing runnable interface/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L04 - Creating thread by implementing runnable interface/src/main/java/org/studyeasy/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L04 - Creating thread by implementing runnable interface/target/classes/org/studyeasy/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L04 - Creating thread by implementing runnable interface/target/classes/org/studyeasy/MyCounter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L05 - Creating thread by implementing runnable interface continues/Screenshot 2022-02-21 185104.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L05 - Creating thread by implementing runnable interface continues/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L05 - Creating thread by implementing runnable interface continues/src/main/java/org/studyeasy/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L05 - Creating thread by implementing runnable interface continues/target/classes/org/studyeasy/Main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L05 - Creating thread by implementing runnable interface continues/target/classes/org/studyeasy/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L06 - Synchronization under concurrency control/Screenshot 2022-02-21 185104.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L06 - Synchronization under concurrency control/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L06 - Synchronization under concurrency control/src/main/java/org/studyeasy/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L06 - Synchronization under concurrency control/target/classes/org/studyeasy/Main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L06 - Synchronization under concurrency control/target/classes/org/studyeasy/Main$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L06 - Synchronization under concurrency control/target/classes/org/studyeasy/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L07 - Synchronization methods in multithreading/Screenshot 2022-02-21 185104.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L07 - Synchronization methods in multithreading/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L07 - Synchronization methods in multithreading/src/main/java/org/studyeasy/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L07 - Synchronization methods in multithreading/target/classes/org/studyeasy/Brackets.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L07 - Synchronization methods in multithreading/target/classes/org/studyeasy/Main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L07 - Synchronization methods in multithreading/target/classes/org/studyeasy/Main$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L07 - Synchronization methods in multithreading/target/classes/org/studyeasy/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L08 - Synchronization blocks in Java/Screenshot 2022-02-21 185104.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L08 - Synchronization blocks in Java/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L08 - Synchronization blocks in Java/src/main/java/org/studyeasy/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L08 - Synchronization blocks in Java/target/classes/org/studyeasy/Brackets.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L08 - Synchronization blocks in Java/target/classes/org/studyeasy/Main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L08 - Synchronization blocks in Java/target/classes/org/studyeasy/Main$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L08 - Synchronization blocks in Java/target/classes/org/studyeasy/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L09 - Synchronization blocks based on Object in Java/Screenshot 2022-02-21 185104.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L09 - Synchronization blocks based on Object in Java/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L09 - Synchronization blocks based on Object in Java/src/main/java/org/studyeasy/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L09 - Synchronization blocks based on Object in Java/target/classes/org/studyeasy/Brackets.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L09 - Synchronization blocks based on Object in Java/target/classes/org/studyeasy/Main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L09 - Synchronization blocks based on Object in Java/target/classes/org/studyeasy/Main$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L09 - Synchronization blocks based on Object in Java/target/classes/org/studyeasy/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L10 - Static Synchronization in Java/Screenshot 2022-02-21 185104.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L10 - Static Synchronization in Java/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L10 - Static Synchronization in Java/src/main/java/org/studyeasy/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L10 - Static Synchronization in Java/target/classes/org/studyeasy/Brackets.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L10 - Static Synchronization in Java/target/classes/org/studyeasy/Main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L10 - Static Synchronization in Java/target/classes/org/studyeasy/Main$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L10 - Static Synchronization in Java/target/classes/org/studyeasy/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L11 - Volatile keyword in Java/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L11 - Volatile keyword in Java/src/main/java/org/studyeasy/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L11 - Volatile keyword in Java/target/classes/org/studyeasy/Main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L11 - Volatile keyword in Java/target/classes/org/studyeasy/Main$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L11 - Volatile keyword in Java/target/classes/org/studyeasy/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L12 - Wait and Notify in Java multithreading/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L12 - Wait and Notify in Java multithreading/src/main/java/org/studyeasy/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L12 - Wait and Notify in Java multithreading/target/classes/org/studyeasy/Main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L12 - Wait and Notify in Java multithreading/target/classes/org/studyeasy/Main$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L12 - Wait and Notify in Java multithreading/target/classes/org/studyeasy/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L13 - Wait and Notify in Java multithreading continues/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L13 - Wait and Notify in Java multithreading continues/src/main/java/org/studyeasy/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L13 - Wait and Notify in Java multithreading continues/target/classes/org/studyeasy/Main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L13 - Wait and Notify in Java multithreading continues/target/classes/org/studyeasy/Main$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L13 - Wait and Notify in Java multithreading continues/target/classes/org/studyeasy/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L14 - Interrupt Java multithreading/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L14 - Interrupt Java multithreading/src/main/java/org/studyeasy/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L14 - Interrupt Java multithreading/target/classes/org/studyeasy/Main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L14 - Interrupt Java multithreading/target/classes/org/studyeasy/Main$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L14 - Interrupt Java multithreading/target/classes/org/studyeasy/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L15 - Join in Java multithreading/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L15 - Join in Java multithreading/src/main/java/org/studyeasy/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L15 - Join in Java multithreading/target/classes/org/studyeasy/Main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L15 - Join in Java multithreading/target/classes/org/studyeasy/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L16 - Join in Java multithreading continues/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L16 - Join in Java multithreading continues/src/main/java/org/studyeasy/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L16 - Join in Java multithreading continues/target/classes/org/studyeasy/Main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L16 - Join in Java multithreading continues/target/classes/org/studyeasy/Main$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L16 - Join in Java multithreading continues/target/classes/org/studyeasy/Main$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L16 - Join in Java multithreading continues/target/classes/org/studyeasy/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L17 - ThreadPool in multithreading/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L17 - ThreadPool in multithreading/src/main/java/org/studyeasy/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L17 - ThreadPool in multithreading/target/classes/org/studyeasy/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L17 - ThreadPool in multithreading/target/classes/org/studyeasy/SomeThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L18 - CountDownLatch in multithreading/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L18 - CountDownLatch in multithreading/src/main/java/org/studyeasy/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L18 - CountDownLatch in multithreading/target/classes/org/studyeasy/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L18 - CountDownLatch in multithreading/target/classes/org/studyeasy/SomeThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L19 - Blocking queue in multithreading/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L19 - Blocking queue in multithreading/src/main/java/org/studyeasy/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L19 - Blocking queue in multithreading/target/classes/org/studyeasy/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L19 - Blocking queue in multithreading/target/classes/org/studyeasy/Producer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L20 - Blocking queue in multithreading continues/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L20 - Blocking queue in multithreading continues/src/main/java/org/studyeasy/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L20 - Blocking queue in multithreading continues/target/classes/org/studyeasy/Consumer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L20 - Blocking queue in multithreading continues/target/classes/org/studyeasy/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L20 - Blocking queue in multithreading continues/target/classes/org/studyeasy/Producer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L21 - Reentrant lock in multihtreading/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L21 - Reentrant lock in multihtreading/src/main/java/org/studyeasy/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L21 - Reentrant lock in multihtreading/target/classes/org/studyeasy/Main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L21 - Reentrant lock in multihtreading/target/classes/org/studyeasy/Main$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L21 - Reentrant lock in multihtreading/target/classes/org/studyeasy/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L22 - Deadlock in multithreading/Screenshot 2022-03-12 204122.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L22 - Deadlock in multithreading/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L22 - Deadlock in multithreading/snapshot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L22 - Deadlock in multithreading/src/main/java/org/studyeasy/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L22 - Deadlock in multithreading/target/classes/org/studyeasy/Main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L22 - Deadlock in multithreading/target/classes/org/studyeasy/Main$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L22 - Deadlock in multithreading/target/classes/org/studyeasy/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L23 - Deadlock prevention with trylock/Screenshot 2022-03-12 204122.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L23 - Deadlock prevention with trylock/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L23 - Deadlock prevention with trylock/snapshot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L23 - Deadlock prevention with trylock/src/main/java/org/studyeasy/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L23 - Deadlock prevention with trylock/target/classes/org/studyeasy/Main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L23 - Deadlock prevention with trylock/target/classes/org/studyeasy/Main$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L23 - Deadlock prevention with trylock/target/classes/org/studyeasy/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Threading_Concurrency/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Threading_Concurrency/src/main/java/org/example/BlockingQueue/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Threading_Concurrency/src/main/java/org/example/BlockingQueue/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Threading_Concurrency/src/main/java/org/example/CountDownLatch/CountDownLatchDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Threading_Concurrency/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Threading_Concurrency/src/main/java/org/example/MultiThreads/MyCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Threading_Concurrency/src/main/java/org/example/MultiThreads/MyCounterRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Threading_Concurrency/src/main/java/org/example/Synchronization/Brackets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Threading_Concurrency/src/main/java/org/example/ThreadPools/SomeThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Threading_Concurrency/src/main/java/org/example/WaitNotify/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Threading_Concurrency/src/main/resources/1-Threads.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Threading_Concurrency/src/main/resources/2-Types_of_Threads.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Threading_Concurrency/src/main/resources/3-LifeCycle-of-Threads.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Threading_Concurrency/src/main/resources/Deadlock.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Course Code/Section 10 - Java Generics/S10L02 - Getting started with Java Generics/.idea/jarRepositories.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ArrayList/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ArrayList/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPS-concept/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Generics/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPS-concept/src/main/java/org/practice/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/ArrayList/OOPS-concept/src/main/java/org/practice/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPS-concept/src/main/java/org/practice/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/ArrayList/OOPS-concept/src/main/java/org/practice/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPS-concept/src/main/java/org/practice/SmartPhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/ArrayList/OOPS-concept/src/main/java/org/practice/SmartPhone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPS-concept/src/main/java/org/practice/composition/Laptop.java" beforeDir="false" afterPath="$PROJECT_DIR$/ArrayList/OOPS-concept/src/main/java/org/practice/composition/Laptop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPS-concept/src/main/java/org/practice/composition/components/GraphicsCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/ArrayList/OOPS-concept/src/main/java/org/practice/composition/components/GraphicsCard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPS-concept/src/main/java/org/practice/composition/components/Processor.java" beforeDir="false" afterPath="$PROJECT_DIR$/ArrayList/OOPS-concept/src/main/java/org/practice/composition/components/Processor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPS-concept/src/main/java/org/practice/constructor/Bike.java" beforeDir="false" afterPath="$PROJECT_DIR$/ArrayList/OOPS-concept/src/main/java/org/practice/constructor/Bike.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPS-concept/src/main/java/org/practice/constructor/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/ArrayList/OOPS-concept/src/main/java/org/practice/constructor/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPS-concept/src/main/java/org/practice/constructor/Truck.java" beforeDir="false" afterPath="$PROJECT_DIR$/ArrayList/OOPS-concept/src/main/java/org/practice/constructor/Truck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPS-concept/src/main/java/org/practice/constructor/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/ArrayList/OOPS-concept/src/main/java/org/practice/constructor/Vehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPS-concept/src/main/java/org/practice/inheritance/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/ArrayList/OOPS-concept/src/main/java/org/practice/inheritance/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPS-concept/src/main/java/org/practice/inheritance/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/ArrayList/OOPS-concept/src/main/java/org/practice/inheritance/Bird.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPS-concept/src/main/java/org/practice/inheritance/Crocodile.java" beforeDir="false" afterPath="$PROJECT_DIR$/ArrayList/OOPS-concept/src/main/java/org/practice/inheritance/Crocodile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPS-concept/src/main/java/org/practice/inheritance/Eagle.java" beforeDir="false" afterPath="$PROJECT_DIR$/ArrayList/OOPS-concept/src/main/java/org/practice/inheritance/Eagle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPS-concept/src/main/java/org/practice/inheritance/Ele.java" beforeDir="false" afterPath="$PROJECT_DIR$/ArrayList/OOPS-concept/src/main/java/org/practice/inheritance/Ele.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPS-concept/src/main/java/org/practice/inheritance/Fish.java" beforeDir="false" afterPath="$PROJECT_DIR$/ArrayList/OOPS-concept/src/main/java/org/practice/inheritance/Fish.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPS-concept/src/main/java/org/practice/inheritance/Reptile.java" beforeDir="false" afterPath="$PROJECT_DIR$/ArrayList/OOPS-concept/src/main/java/org/practice/inheritance/Reptile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPS-concept/src/main/java/org/practice/polymorphism/Iphone.java" beforeDir="false" afterPath="$PROJECT_DIR$/ArrayList/OOPS-concept/src/main/java/org/practice/polymorphism/Iphone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPS-concept/src/main/java/org/practice/polymorphism/Nokia3310.java" beforeDir="false" afterPath="$PROJECT_DIR$/ArrayList/OOPS-concept/src/main/java/org/practice/polymorphism/Nokia3310.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPS-concept/src/main/java/org/practice/polymorphism/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/ArrayList/OOPS-concept/src/main/java/org/practice/polymorphism/Phone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPS-concept/target/classes/org/practice/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPS-concept/target/classes/org/practice/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPS-concept/target/classes/org/practice/SmartPhone.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPS-concept/target/classes/org/practice/composition/Laptop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPS-concept/target/classes/org/practice/composition/components/GraphicsCard.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPS-concept/target/classes/org/practice/composition/components/Processor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPS-concept/target/classes/org/practice/constructor/Bike.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPS-concept/target/classes/org/practice/constructor/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPS-concept/target/classes/org/practice/constructor/Truck.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPS-concept/target/classes/org/practice/constructor/Vehicle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPS-concept/target/classes/org/practice/inheritance/Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPS-concept/target/classes/org/practice/inheritance/Bird.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPS-concept/target/classes/org/practice/inheritance/Crocodile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPS-concept/target/classes/org/practice/inheritance/Eagle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPS-concept/target/classes/org/practice/inheritance/Ele.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPS-concept/target/classes/org/practice/inheritance/Fish.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPS-concept/target/classes/org/practice/inheritance/Reptile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPS-concept/target/classes/org/practice/polymorphism/Iphone.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPS-concept/target/classes/org/practice/polymorphism/Nokia3310.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPS-concept/target/classes/org/practice/polymorphism/Phone.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice Code.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -256,7 +185,7 @@
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
     "jdk.selected.JAVA_MODULE": "19",
-    "last_opened_file_path": "/Users/neeraj/Documents/Zolostays/Practice/Java/Learning Full Stack Java/Practice Code/src/main/java/org/practice/laptop",
+    "last_opened_file_path": "/Users/neeraj/Documents/Zolostays/Practice/Java/Learning Full Stack Java/Multi-Threading_Concurrency/src/main/resources",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -276,6 +205,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Multi-Threading_Concurrency/src/main/resources" />
       <recent name="$PROJECT_DIR$/Practice Code/src/main/java/org/practice/laptop" />
       <recent name="$PROJECT_DIR$/Practice Code/src/main/java/org/practice/components" />
     </key>
@@ -290,7 +220,20 @@
       <recent name="org.example.Maps" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
+      <module name="Multi-Threading_Concurrency" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="19" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -346,11 +289,13 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Main (1)" />
       <item itemvalue="Application.org.practice.Main" />
       <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.org.practice.Main" />
       </list>
@@ -374,7 +319,9 @@
       <workItem from="1701095780459" duration="4750000" />
       <workItem from="1701608959737" duration="7401000" />
       <workItem from="1701962965400" duration="899000" />
-      <workItem from="1701963878027" duration="6566000" />
+      <workItem from="1701963878027" duration="11879000" />
+      <workItem from="1702215027436" duration="1455000" />
+      <workItem from="1702295221519" duration="9454000" />
     </task>
     <servers />
   </component>
