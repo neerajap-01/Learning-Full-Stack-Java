@@ -9,9 +9,10 @@
         <module name="Core-concepts" />
         <module name="Sets-concepts" />
         <module name="OOPS-concept" />
+        <module name="DataStream" />
+        <module name="Multi-Threading_Concurrency" />
         <module name="Arrays" />
         <module name="Lambda" />
-        <module name="Multi-Threading_Concurrency" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

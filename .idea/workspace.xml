@@ -5,17 +5,60 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8ac957bc-55bc-4f2a-b969-140473dc9497" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Lambda/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lambda/src/main/java/org/example/ComparatorLambdaExpression/Data.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lambda/src/main/java/org/example/ForEachLambdaExp/ForEachData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lambda/src/main/java/org/example/LambdaInterface/Lambda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lambda/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 14 - File handling in Java/S14L02 - Create file on disk in Java/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 14 - File handling in Java/S14L02 - Create file on disk in Java/src/main/java/org/studyeasy/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 14 - File handling in Java/S14L02 - Create file on disk in Java/src/studyeasy.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 14 - File handling in Java/S14L02 - Create file on disk in Java/studyeasy.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 14 - File handling in Java/S14L02 - Create file on disk in Java/target/classes/org/studyeasy/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 14 - File handling in Java/S14L03 - Create directory in Java/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 14 - File handling in Java/S14L03 - Create directory in Java/src/main/java/org/studyeasy/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 14 - File handling in Java/S14L03 - Create directory in Java/target/classes/org/studyeasy/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 14 - File handling in Java/S14L04 - Check OS in Java file management/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 14 - File handling in Java/S14L04 - Check OS in Java file management/src/main/java/org/studyeasy/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 14 - File handling in Java/S14L04 - Check OS in Java file management/target/classes/org/studyeasy/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 14 - File handling in Java/S14L04 - Create directory in Java/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 14 - File handling in Java/S14L04 - Create directory in Java/src/main/java/org/studyeasy/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 14 - File handling in Java/S14L04 - Create directory in Java/target/classes/org/studyeasy/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 14 - File handling in Java/S14L05 - Writing into a text file in Java/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 14 - File handling in Java/S14L05 - Writing into a text file in Java/src/main/java/org/studyeasy/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 14 - File handling in Java/S14L05 - Writing into a text file in Java/studyeasy/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 14 - File handling in Java/S14L05 - Writing into a text file in Java/target/classes/org/studyeasy/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 14 - File handling in Java/S14L06 - Try with resources in Java/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 14 - File handling in Java/S14L06 - Try with resources in Java/src/main/java/org/studyeasy/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 14 - File handling in Java/S14L06 - Try with resources in Java/studyeasy/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 14 - File handling in Java/S14L07 - Read a text file in Java/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 14 - File handling in Java/S14L07 - Read a text file in Java/src/main/java/org/studyeasy/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 14 - File handling in Java/S14L07 - Read a text file in Java/studyeasy/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 14 - File handling in Java/S14L07 - Read a text file in Java/target/classes/org/studyeasy/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 14 - File handling in Java/S14L08 - Read a text file in Java usinf scanner/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 14 - File handling in Java/S14L08 - Read a text file in Java usinf scanner/src/main/java/org/studyeasy/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 14 - File handling in Java/S14L08 - Read a text file in Java usinf scanner/studyeasy/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 14 - File handling in Java/S14L08 - Read a text file in Java usinf scanner/target/classes/org/studyeasy/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 14 - File handling in Java/S14L09 - File deletion in Java/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 14 - File handling in Java/S14L09 - File deletion in Java/src/main/java/org/studyeasy/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 14 - File handling in Java/S14L09 - File deletion in Java/target/classes/org/studyeasy/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 14 - File handling in Java/S14L11 - Serialization of objects in File operation/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 14 - File handling in Java/S14L11 - Serialization of objects in File operation/src/main/java/org/studyeasy/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 14 - File handling in Java/S14L11 - Serialization of objects in File operation/src/main/java/org/studyeasy/ReadObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 14 - File handling in Java/S14L11 - Serialization of objects in File operation/src/main/java/org/studyeasy/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 14 - File handling in Java/S14L11 - Serialization of objects in File operation/studyeasy/vehicle.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 14 - File handling in Java/S14L11 - Serialization of objects in File operation/target/classes/org/studyeasy/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 14 - File handling in Java/S14L11 - Serialization of objects in File operation/target/classes/org/studyeasy/ReadObject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Code/Section 14 - File handling in Java/S14L11 - Serialization of objects in File operation/target/classes/org/studyeasy/Vehicle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStream/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStream/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStream/src/main/java/org/example/ObjectsinFile/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStream/src/main/java/org/example/dummy.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStream/src/main/java/org/example/newTextFile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStream/src/main/java/org/example/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStream/src/main/java/org/example/vehicles.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStream/src/main/resources/Buffered vs Scanner class.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStream/src/main/resources/Stream Class.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multi-Threading_Concurrency/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Multi-Threading_Concurrency/src/main/java/org/example/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multi-Threading_Concurrency/target/classes/org/example/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Multi-Threading_Concurrency/target/classes/org/example/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda/target/classes/org/example/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda/target/classes/org/example/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +135,7 @@
       <recent name="org.example.Maps" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
+  <component name="RunManager" selected="Application.Main (3)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Main" />
       <module name="Multi-Threading_Concurrency" />
@@ -109,6 +152,19 @@
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Main" />
       <module name="Lambda" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
+      <module name="DataStream" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.example.*" />
@@ -175,12 +231,14 @@
     </configuration>
     <list>
       <item itemvalue="Application.Main (2)" />
+      <item itemvalue="Application.Main (3)" />
       <item itemvalue="Application.Main (1)" />
       <item itemvalue="Application.org.practice.Main" />
       <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
@@ -211,7 +269,7 @@
       <workItem from="1702295221519" duration="9856000" />
       <workItem from="1702363008959" duration="645000" />
       <workItem from="1702393138592" duration="1362000" />
-      <workItem from="1702460922842" duration="3919000" />
+      <workItem from="1702460922842" duration="9532000" />
     </task>
     <servers />
   </component>
