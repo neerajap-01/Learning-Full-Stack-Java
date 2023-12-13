@@ -10,6 +10,7 @@
         <module name="Sets-concepts" />
         <module name="OOPS-concept" />
         <module name="Arrays" />
+        <module name="Lambda" />
         <module name="Multi-Threading_Concurrency" />
       </profile>
     </annotationProcessing>

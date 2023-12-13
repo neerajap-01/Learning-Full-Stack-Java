@@ -607,12 +607,12 @@ public class Main {
             }
         });
 
-        thread10.start();
-        thread11.start();
-        thread10.join();
-        thread11.join();
-
-        System.out.println("Main Thread");
+//        thread10.start();
+//        thread11.start();
+//        thread10.join();
+//        thread11.join();
+//
+//        System.out.println("Main Thread");
 
 
     }

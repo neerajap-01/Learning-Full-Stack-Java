@@ -5,145 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8ac957bc-55bc-4f2a-b969-140473dc9497" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L02 - Creating thread by extending the thread class/Screenshot 2022-02-21 185104.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L02 - Creating thread by extending the thread class/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L02 - Creating thread by extending the thread class/src/main/java/org/studyeasy/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L02 - Creating thread by extending the thread class/target/classes/org/studyeasy/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L02 - Creating thread by extending the thread class/target/classes/org/studyeasy/MyCounter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L03 - Creating thread by extending the thread class continues/Screenshot 2022-02-21 185104.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L03 - Creating thread by extending the thread class continues/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L03 - Creating thread by extending the thread class continues/src/main/java/org/studyeasy/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L03 - Creating thread by extending the thread class continues/target/classes/org/studyeasy/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L03 - Creating thread by extending the thread class continues/target/classes/org/studyeasy/MyCounter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L04 - Creating thread by implementing runnable interface/Screenshot 2022-02-21 185104.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L04 - Creating thread by implementing runnable interface/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L04 - Creating thread by implementing runnable interface/src/main/java/org/studyeasy/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L04 - Creating thread by implementing runnable interface/target/classes/org/studyeasy/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L04 - Creating thread by implementing runnable interface/target/classes/org/studyeasy/MyCounter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L05 - Creating thread by implementing runnable interface continues/Screenshot 2022-02-21 185104.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L05 - Creating thread by implementing runnable interface continues/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L05 - Creating thread by implementing runnable interface continues/src/main/java/org/studyeasy/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L05 - Creating thread by implementing runnable interface continues/target/classes/org/studyeasy/Main$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L05 - Creating thread by implementing runnable interface continues/target/classes/org/studyeasy/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L06 - Synchronization under concurrency control/Screenshot 2022-02-21 185104.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L06 - Synchronization under concurrency control/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L06 - Synchronization under concurrency control/src/main/java/org/studyeasy/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L06 - Synchronization under concurrency control/target/classes/org/studyeasy/Main$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L06 - Synchronization under concurrency control/target/classes/org/studyeasy/Main$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L06 - Synchronization under concurrency control/target/classes/org/studyeasy/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L07 - Synchronization methods in multithreading/Screenshot 2022-02-21 185104.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L07 - Synchronization methods in multithreading/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L07 - Synchronization methods in multithreading/src/main/java/org/studyeasy/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L07 - Synchronization methods in multithreading/target/classes/org/studyeasy/Brackets.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L07 - Synchronization methods in multithreading/target/classes/org/studyeasy/Main$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L07 - Synchronization methods in multithreading/target/classes/org/studyeasy/Main$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L07 - Synchronization methods in multithreading/target/classes/org/studyeasy/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L08 - Synchronization blocks in Java/Screenshot 2022-02-21 185104.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L08 - Synchronization blocks in Java/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L08 - Synchronization blocks in Java/src/main/java/org/studyeasy/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L08 - Synchronization blocks in Java/target/classes/org/studyeasy/Brackets.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L08 - Synchronization blocks in Java/target/classes/org/studyeasy/Main$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L08 - Synchronization blocks in Java/target/classes/org/studyeasy/Main$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L08 - Synchronization blocks in Java/target/classes/org/studyeasy/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L09 - Synchronization blocks based on Object in Java/Screenshot 2022-02-21 185104.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L09 - Synchronization blocks based on Object in Java/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L09 - Synchronization blocks based on Object in Java/src/main/java/org/studyeasy/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L09 - Synchronization blocks based on Object in Java/target/classes/org/studyeasy/Brackets.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L09 - Synchronization blocks based on Object in Java/target/classes/org/studyeasy/Main$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L09 - Synchronization blocks based on Object in Java/target/classes/org/studyeasy/Main$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L09 - Synchronization blocks based on Object in Java/target/classes/org/studyeasy/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L10 - Static Synchronization in Java/Screenshot 2022-02-21 185104.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L10 - Static Synchronization in Java/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L10 - Static Synchronization in Java/src/main/java/org/studyeasy/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L10 - Static Synchronization in Java/target/classes/org/studyeasy/Brackets.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L10 - Static Synchronization in Java/target/classes/org/studyeasy/Main$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L10 - Static Synchronization in Java/target/classes/org/studyeasy/Main$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L10 - Static Synchronization in Java/target/classes/org/studyeasy/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L11 - Volatile keyword in Java/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L11 - Volatile keyword in Java/src/main/java/org/studyeasy/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L11 - Volatile keyword in Java/target/classes/org/studyeasy/Main$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L11 - Volatile keyword in Java/target/classes/org/studyeasy/Main$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L11 - Volatile keyword in Java/target/classes/org/studyeasy/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L12 - Wait and Notify in Java multithreading/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L12 - Wait and Notify in Java multithreading/src/main/java/org/studyeasy/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L12 - Wait and Notify in Java multithreading/target/classes/org/studyeasy/Main$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L12 - Wait and Notify in Java multithreading/target/classes/org/studyeasy/Main$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L12 - Wait and Notify in Java multithreading/target/classes/org/studyeasy/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L13 - Wait and Notify in Java multithreading continues/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L13 - Wait and Notify in Java multithreading continues/src/main/java/org/studyeasy/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L13 - Wait and Notify in Java multithreading continues/target/classes/org/studyeasy/Main$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L13 - Wait and Notify in Java multithreading continues/target/classes/org/studyeasy/Main$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L13 - Wait and Notify in Java multithreading continues/target/classes/org/studyeasy/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L14 - Interrupt Java multithreading/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L14 - Interrupt Java multithreading/src/main/java/org/studyeasy/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L14 - Interrupt Java multithreading/target/classes/org/studyeasy/Main$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L14 - Interrupt Java multithreading/target/classes/org/studyeasy/Main$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L14 - Interrupt Java multithreading/target/classes/org/studyeasy/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L15 - Join in Java multithreading/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L15 - Join in Java multithreading/src/main/java/org/studyeasy/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L15 - Join in Java multithreading/target/classes/org/studyeasy/Main$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L15 - Join in Java multithreading/target/classes/org/studyeasy/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L16 - Join in Java multithreading continues/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L16 - Join in Java multithreading continues/src/main/java/org/studyeasy/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L16 - Join in Java multithreading continues/target/classes/org/studyeasy/Main$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L16 - Join in Java multithreading continues/target/classes/org/studyeasy/Main$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L16 - Join in Java multithreading continues/target/classes/org/studyeasy/Main$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L16 - Join in Java multithreading continues/target/classes/org/studyeasy/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L17 - ThreadPool in multithreading/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L17 - ThreadPool in multithreading/src/main/java/org/studyeasy/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L17 - ThreadPool in multithreading/target/classes/org/studyeasy/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L17 - ThreadPool in multithreading/target/classes/org/studyeasy/SomeThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L18 - CountDownLatch in multithreading/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L18 - CountDownLatch in multithreading/src/main/java/org/studyeasy/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L18 - CountDownLatch in multithreading/target/classes/org/studyeasy/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L18 - CountDownLatch in multithreading/target/classes/org/studyeasy/SomeThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L19 - Blocking queue in multithreading/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L19 - Blocking queue in multithreading/src/main/java/org/studyeasy/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L19 - Blocking queue in multithreading/target/classes/org/studyeasy/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L19 - Blocking queue in multithreading/target/classes/org/studyeasy/Producer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L20 - Blocking queue in multithreading continues/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L20 - Blocking queue in multithreading continues/src/main/java/org/studyeasy/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L20 - Blocking queue in multithreading continues/target/classes/org/studyeasy/Consumer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L20 - Blocking queue in multithreading continues/target/classes/org/studyeasy/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L20 - Blocking queue in multithreading continues/target/classes/org/studyeasy/Producer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L21 - Reentrant lock in multihtreading/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L21 - Reentrant lock in multihtreading/src/main/java/org/studyeasy/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L21 - Reentrant lock in multihtreading/target/classes/org/studyeasy/Main$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L21 - Reentrant lock in multihtreading/target/classes/org/studyeasy/Main$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L21 - Reentrant lock in multihtreading/target/classes/org/studyeasy/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L22 - Deadlock in multithreading/Screenshot 2022-03-12 204122.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L22 - Deadlock in multithreading/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L22 - Deadlock in multithreading/snapshot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L22 - Deadlock in multithreading/src/main/java/org/studyeasy/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L22 - Deadlock in multithreading/target/classes/org/studyeasy/Main$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L22 - Deadlock in multithreading/target/classes/org/studyeasy/Main$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L22 - Deadlock in multithreading/target/classes/org/studyeasy/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L23 - Deadlock prevention with trylock/Screenshot 2022-03-12 204122.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L23 - Deadlock prevention with trylock/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L23 - Deadlock prevention with trylock/snapshot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L23 - Deadlock prevention with trylock/src/main/java/org/studyeasy/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L23 - Deadlock prevention with trylock/target/classes/org/studyeasy/Main$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L23 - Deadlock prevention with trylock/target/classes/org/studyeasy/Main$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Code/Section 12 - Multithreading-Concurrency control in Java/S12L23 - Deadlock prevention with trylock/target/classes/org/studyeasy/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Multi-Threading_Concurrency/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Multi-Threading_Concurrency/src/main/java/org/example/BlockingQueue/Consumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Multi-Threading_Concurrency/src/main/java/org/example/BlockingQueue/Producer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Multi-Threading_Concurrency/src/main/java/org/example/CountDownLatch/CountDownLatchDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Multi-Threading_Concurrency/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Multi-Threading_Concurrency/src/main/java/org/example/MultiThreads/MyCounter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Multi-Threading_Concurrency/src/main/java/org/example/MultiThreads/MyCounterRunnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Multi-Threading_Concurrency/src/main/java/org/example/Synchronization/Brackets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Multi-Threading_Concurrency/src/main/java/org/example/ThreadPools/SomeThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Multi-Threading_Concurrency/src/main/java/org/example/WaitNotify/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Multi-Threading_Concurrency/src/main/resources/1-Threads.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Multi-Threading_Concurrency/src/main/resources/2-Types_of_Threads.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Multi-Threading_Concurrency/src/main/resources/3-LifeCycle-of-Threads.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Multi-Threading_Concurrency/src/main/resources/Deadlock.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lambda/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lambda/src/main/java/org/example/ComparatorLambdaExpression/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lambda/src/main/java/org/example/ForEachLambdaExp/ForEachData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lambda/src/main/java/org/example/LambdaInterface/Lambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lambda/src/main/java/org/example/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Multi-Threading_Concurrency/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Multi-Threading_Concurrency/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Multi-Threading_Concurrency/target/classes/org/example/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Multi-Threading_Concurrency/target/classes/org/example/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -153,8 +25,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -176,33 +48,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "jdk.selected.JAVA_MODULE": "19",
-    "last_opened_file_path": "/Users/neeraj/Documents/Zolostays/Practice/Java/Learning Full Stack Java/Multi-Threading_Concurrency/src/main/resources",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "SDKs",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;19&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/neeraj/Documents/Zolostays/Practice/Java/Learning Full Stack Java/Multi-Threading_Concurrency/src/main/resources&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "ChangesTree.GroupingKeys": [
-      "directory"
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Multi-Threading_Concurrency/src/main/resources" />
@@ -220,10 +92,23 @@
       <recent name="org.example.Maps" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Main" />
       <module name="Multi-Threading_Concurrency" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
+      <module name="Lambda" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.example.*" />
@@ -289,12 +174,14 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Main (2)" />
       <item itemvalue="Application.Main (1)" />
       <item itemvalue="Application.org.practice.Main" />
       <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.org.practice.Main" />
@@ -321,7 +208,10 @@
       <workItem from="1701962965400" duration="899000" />
       <workItem from="1701963878027" duration="11879000" />
       <workItem from="1702215027436" duration="1455000" />
-      <workItem from="1702295221519" duration="9454000" />
+      <workItem from="1702295221519" duration="9856000" />
+      <workItem from="1702363008959" duration="645000" />
+      <workItem from="1702393138592" duration="1362000" />
+      <workItem from="1702460922842" duration="3919000" />
     </task>
     <servers />
   </component>
