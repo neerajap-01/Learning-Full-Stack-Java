@@ -9,6 +9,7 @@
         <module name="Core-concepts" />
         <module name="Sets-concepts" />
         <module name="OOPS-concept" />
+        <module name="Hibernate" />
         <module name="DataStream" />
         <module name="Multi-Threading_Concurrency" />
         <module name="Arrays" />
@@ -16,6 +17,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="Generics" target="19" />
       <module name="SetHashSets" target="19" />
     </bytecodeTargetLevel>
   </component>
